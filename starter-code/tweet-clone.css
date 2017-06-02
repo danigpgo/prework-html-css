@@ -1,0 +1,96 @@
+body{
+background: #F4F8F9;
+font-family: helvetica;
+}
+
+.caja{
+background: #fff;
+border: solid 2px #E0E7EC;
+padding: 15px 20px 15px 20px;
+border-radius: 10px;
+width: 1000px;
+height: 305px;
+}
+
+.grupo1{
+  float:left;
+margin-left: 23px;
+margin-top: 23px;
+margin-right: 4px;
+}
+
+#nombre{
+  float:left;
+  margin-left: 6px;
+  color:#1C2022;
+  margin-top:22px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#verificado{
+  float:left;
+  margin-left: 11px;
+  margin-top:23px;
+}
+
+#cuenta{
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 61px;
+  position:absolute;
+  margin-left: 112px;
+  color:rgb(104, 109, 129);
+}
+
+.texto-tuit{
+  margin-left: 25px;
+  margin-top: 125px;
+  font-size: 35px;
+  position:absolute;
+}
+
+.fecha{
+  color: #697882;
+  font-size: 28px;
+  position:absolute;
+  margin-left: 25px;
+  margin-top: 178px;
+}
+
+  .engagement {
+    color: #697882;
+    font-size: 28px;
+    margin-left: 25px;
+    margin-top: 250px;
+    position: absolute;
+}
+
+#dist2 {
+margin-left: 40px;
+}
+
+#dist3 {
+margin-left: 40px;
+}
+
+button{
+  float:right;
+  margin: 23px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #55ACEE;
+  background-color: #fff;
+  border-color: #55ACEE;
+  border: solid 2px;
+  border-radius: 7px;
+  padding: 14px 24px
+}
+
+#pajaro{
+  margin-right: 10px
+}
+
+.test-image{
+  width: 1045px;
+}
